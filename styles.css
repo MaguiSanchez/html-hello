@@ -1,0 +1,42 @@
+body {
+    background-color: gainsboro;
+    margin: 0;
+}
+.box1 {
+    background-color: white;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    margin: 0;
+}
+.box2 {
+    background-color: gainsboro;
+    margin: auto;
+    width: 600px;
+}
+.post {
+    background-color: white;
+    margin-top: 15px;
+}
+.myimage {
+    width: 100%;
+}
+.name {
+    display: flex;
+    padding-right: 5px;
+}
+h2 {
+    width: 80%;
+    padding: 10px;
+    margin: 0;
+}
+p {
+    width: 20%; 
+    text-align: right;
+    color: grey;
+}
+.description {
+    padding: 10px;
+    margin: 0;
+}
